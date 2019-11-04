@@ -116,7 +116,7 @@ Ch 7 notes
 	List can be sliced like strings  
 	Build a list using append   
 
-
+ 
  
  
   
