@@ -67,7 +67,56 @@ I have done to week 7, sections 5.4 in Python For Everybody course. Below is lis
 5.4 - Loop Idioms 18m 
 5.1 Worked Exercise8m 
  
+Megan Milarcik 
+Python for Everybody
+
+ In the Python for everyone course, I have complete through week four and am now on 8.4 of Data Structures
+
+6.1 – Strings 15m 
+6.2 - Manipulating Strings 17m 
+7.1 - Files 8m 
+7.2 - Processing Files 11m 
+8.1 - Lists 10m 
+8.2 - Manipulating Lists 9m
+8.3 - Lists and Strings 
  
+ 
+ 
+  
+  
+Ch 6 notes  
+•	We read and convert  
+•	Things such as input numbers must be converted to a string  
+•	Colon operator lets us use any section of string  
+•	Concatenation “+” combines strings  
+•	Use in as logical operator  
+•	Python strings stored in string library 
+•	“find” function finds strings within other strings  
+•	Strip whitespace away with lstrip() rstrip() 
+ 
+Ch 7 notes  
+  
+  
+ 
+	Input and output devices -à software: . secondary memory 
+•	CPU 
+•	Main memory                                            
+	Open function tells which file  
+	File handle is a variable used to perform operations  
+	We use a newline character /n  to indicate when a line ends  
+	We can use if statement inside a for loop to retrieve lines of code that meet certain criteria  
+	Continue statement skips a line of code 
+	What we name files is important  
+	Chapter 8 notes  
+	Collection allows us to make many values in a single variable  
+	List element can be any python object- even another list  
+	List coincide well with definite loops  
+	Using index we can change the content of a list, unlike a string which is mutable.  
+	Range returns list of numbers that’s one less than the parameter  
+	List can be sliced like strings  
+	Build a list using append   
+
+
  
  
   
