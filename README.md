@@ -116,7 +116,44 @@ Ch 7 notes
 	List can be sliced like strings  
 	Build a list using append   
 
+ Megan Milarcik 
+Python for Everybody
+
+ In the Python for everyone course, I have completed Python for Everybody
+
+9.1 - Dictionaries (9m) 
+9.2 - Counting with Dictionaries (11m) 
+9.3 - Dictionaries and Files (13m) 
+10 - Tuples (17m) 
+Worked Exercise: Tuples and Sorting 
+Graduation 
  
+  
+Dictionary- “bag” of values, each with its own label, no order 
+Dictionaries are like a list except they use keys instead of numbers to look up values  
+Dictionary literals have a key: value pairs  
+You can make an empty dictionary using curly braces   
+  
+Error to reference key that’s isn’t in dictionary  
+We can use an in operator to see if a key is in the dictionary  
+  
+ 
+9.3 
+  
+You can get lists of keys and values or items both from a dictionary 
+   
+  
+Indexed numbers  
+Not changeable (immutable)  
+Comparison operator works with tuples and other sequences. If the first term is equal python goes on to the next element on and on 
+We can sort list of tuples  
+  
+  
+  
+ 
+ 
+
+
  
  
   
